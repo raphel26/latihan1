@@ -15,12 +15,11 @@
 3. Apabila belum dilakukan konfigurasi , akan mengakibatkan terjadi kegagalan saat menjadikan perintah ```git commit```
 4. Config Global Repository 
     ```git config --global user.name "name_user```
+     ```git config --global user.email "email_anda"```
+
     ![My Image](img/3.PNG)
 
-    ```git config --global user.email "email_anda"```
-
-    ![My Image](img/4.PNG)
-
+   
 ## Membuat Reposiory Local
 1. Buka derektory aktif misal " C:/Document/LatihanVCS " buka menggunakan Windowns Expoler
 2. Klik kanan pada direktory aktif tersebut , dan pilih menu " Git Bash " , sehingga muncul git bash command
