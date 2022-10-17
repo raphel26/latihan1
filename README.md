@@ -15,6 +15,7 @@
 3. Apabila belum dilakukan konfigurasi , akan mengakibatkan terjadi kegagalan saat menjadikan perintah ```git commit```
 4. Config Global Repository 
     ```git config --global user.name "name_user```
+    
      ```git config --global user.email "email_anda"```
 
     ![My Image](img/3.PNG)
