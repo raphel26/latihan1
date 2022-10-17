@@ -3,7 +3,7 @@
 ## Install Git 
     
 1. Download Git,buka website resminya Git ```git-scm.com```
-    ![My_Image](img/1.PNG)
+    ![My_Image](IMG/1.PNG)
 2. Kemudian Unduh git sesuai dengan arsitektur komputer anda kalau menggunakan 64 bit, unduh yang 64bit, Begitu juga kalau menggunakan 32bit.
 3. Lalu di install 
 4. Untuk memcobanya, silahkan bukan CMD atau PowerShell kemudian ketik perintah ```git --version```
