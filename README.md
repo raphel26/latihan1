@@ -1,3 +1,5 @@
+## raphel ajie pratama tanoyo
+## TI.22.A3
 ## Install Git 
     
 1. Download Git,buka website resminya Git ```git-scm.com```
